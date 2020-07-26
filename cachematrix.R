@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
 
-## Write a short comment describing this function
 ## This function contains 4 functions stored in a list.
 ##The first ('set') allows to define a matrix and assigns the value "NULL" to its inverse (m_inverse).
 ##The second ('get') returns the stored matrix.
